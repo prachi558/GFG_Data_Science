@@ -1,0 +1,11 @@
+1,5 star,10,70
+9,cornetto,40,25
+2,dairy milh,20,70
+3,chocos,150,40
+4,oats,250,15
+5,kellogs,170,20
+6,good day,20,40
+7,marie biscuit,35,30
+8,chocobar,25,30
+10,candy,1,250
+11,sprite,25,30
